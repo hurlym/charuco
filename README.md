@@ -1,0 +1,1 @@
+# Proyecto Aruko para la investigacion de la creacion de un soldador virtual
